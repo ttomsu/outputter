@@ -1,0 +1,1 @@
+Outputter provides a quick and easy way to log UNIX-pipeable output to StdOut and structured logs and debug information to StdErr.
